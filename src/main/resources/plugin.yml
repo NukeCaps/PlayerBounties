@@ -1,0 +1,6 @@
+name: PlayerBounties
+version: '${project.version}'
+main: nuclearkat.playerbounties.PlayerBounties
+api-version: 1.20
+commands:
+  bounty:
